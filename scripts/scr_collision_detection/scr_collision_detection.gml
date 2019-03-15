@@ -65,8 +65,12 @@ if (place_meeting(x + hspd, y, arg0)){
 	hspd = 0;
 }
 else{
-	obj_blue_thing.hspeed = 0;
-	obj_red_thing.hspeed = 0;
+	with obj_blue_thing{
+		hspeed = 0;
+	}
+	with obj_red_thing{
+		hspeed = 0;
+	}
 }
 
 

@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_red_thing",
     "eventList": [
-        
+        {
+            "id": "f25708aa-05d7-481c-9e14-f513fb0629c4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "0a982990-31a2-4817-9ad1-389c331b620e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
