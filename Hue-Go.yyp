@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "5c0269d1-9d7c-4082-a972-b2dcdabe218f",
+            "Value": {
+                "id": "db8f7c8e-cab6-45c2-a736-40328807326e",
+                "resourcePath": "objects\\obj_red_thing_move\\obj_red_thing_move.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "68082c25-60f1-4cf1-8e6a-2f1c36a330e4",
             "Value": {
                 "id": "d801e7b3-b896-4b10-b9d1-bbfda242d827",
